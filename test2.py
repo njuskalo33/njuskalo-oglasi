@@ -7,7 +7,7 @@ gmail_user = 'njuskalo.test123@gmail.com'
 gmail_password = 'radilca123'
 
 sent_from = gmail_user
-to = "njuskalo.test123@gmail.com"
+to = "nikola.pavich7@gmail.com"
 
 
 server = smtplib.SMTP_SSL('smtp.gmail.com', 465)
